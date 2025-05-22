@@ -21,6 +21,8 @@ This project provides a tool to automatically generate High-Level Design (HLD) d
 *   **File Output:** Automatically saves generated HLDs to a local `./output` folder with unique filenames.
 *   **Usage Statistics:** Reports on model usage and cost estimates when using hybrid mode.
 *   **Configuration:** Manage API keys, endpoints, and model IDs via environment variables (`.env` file).
+## Demo
+![Demo](assets/neo_hld.gif)
 
 ## Architecture
 
