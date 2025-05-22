@@ -1,0 +1,12 @@
+streamlit
+langchain>=0.1.0,<0.2.0 # Or newer compatible versions
+langgraph>=0.0.30 # Or newer compatible versions
+langchain-community
+langchain-aws # For Bedrock integration
+boto3>=1.34.0 # Ensure a recent version for Bedrock models
+ollama # Official Ollama client
+requests
+python-dotenv
+# Add any other specific libraries used, e.g., for advanced parsing if needed
+tiktoken>=0.6.0
+markdown>=3.4.0

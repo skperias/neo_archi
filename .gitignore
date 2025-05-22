@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output files
+output/
+
+# cache files
+cache/
+
+# Backup files
+backup/
+
+# Environment variables file
+.env
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.DS_Store
+*.swp
+*~
+
+# Streamlit specific cache/config (optional)
+.streamlit/
